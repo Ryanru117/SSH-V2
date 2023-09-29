@@ -28,7 +28,6 @@ dias="3"
 # h4 သည် = စာလုံးအလတ် ဖြစ်သည်
 # h3 သည် = စာလုံးအကြီး  ဖြစ်သည်
 servermessage="<h3><font color='red'>
-▬▬▬▬▬▬▬▬✿4▪0▪4✿▬▬▬▬▬▬▬▬
 </font></h3>
 <h4><font color='cyan'>
 Gcp Premium Server By
