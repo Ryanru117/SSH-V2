@@ -27,9 +27,8 @@ dias="3"
 # h6 သည် = စာလုံးအသေး ဖြစ်သည်
 # h4 သည် = စာလုံးအလတ် ဖြစ်သည်
 # h3 သည် = စာလုံးအကြီး  ဖြစ်သည်
-servermessage="<h3><font color='red'>
-</font></h3>
-<h4><font color='cyan'>
+servermessage="</font></h6>
+<h4><font color='blue'>
 Gcp Premium Server By
    🔥 Ryan Ru 🔥
 </font></h3>"
